@@ -5,7 +5,7 @@
 목차
 <ul>
 <ul> <b>웹</b>
-	<li><a href = "https://github.com/devxb/be-Backend-Dev/blob/main/HTTP%26HTTPS/HTTP.md"> HTTP란?</p></li>
+	<li><a href = "https://github.com/devxb/be-Backend-Dev/blob/main/HTTP%26HTTPS/HTTP.md"> HTTP란?</a></li>
 	<li> HTTP성능 향상을 위해 고안된 방법들 </li>
 	<li>HTTP 다이제스트 인증</li>
 	<li>HTTPS</li>
