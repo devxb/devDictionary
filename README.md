@@ -1,6 +1,5 @@
-<div align = "center">
 <h3>백엔드 개발자가 되기위해 공부한것들</h2>
-</div>
+
 <div>
 목차
 <ul>
