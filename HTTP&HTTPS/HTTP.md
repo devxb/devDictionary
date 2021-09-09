@@ -64,4 +64,4 @@ Connection: keep-alive
 3. 서버의 IP와 TCP Connection을 맺는다.
 
 4.  일련의 트랜잭션을 거친후, TCP/IP프로토콜 연결을 해제한다.
--- 단, Connection이 keep-alive라면, 연결을 살려둘수도있다.
+-- 단, Connection이 keep-alive라면, 연결을 살려둘수도있다. + HTTP 1.1 부터는 Connection이 close가 아니라면 연결을 끊지않는것을 중점으로 한다.
