@@ -8,7 +8,7 @@
 <ul>
 <ul> <b>웹</b>
 	<li><a href = "https://github.com/devxb/be-Backend-Dev/blob/main/HTTP%26HTTPS/HTTP.md"> HTTP란?</a></li>
-	<li> HTTP성능 향상을 위해 고안된 방법 - 병렬 커넥션, keep-alive 커넥션, keep-alive 파이프라인 </li>
+	<li> <a href = "https://github.com/devxb/be-Backend-Dev/blob/main/HTTP%26HTTPS/HTTP%EC%84%B1%EB%8A%A5%ED%96%A5%EC%83%81%EC%9D%84%20%EC%9C%84%ED%95%B4%20%EA%B3%A0%EC%95%88%EB%90%9C%20%EB%B0%A9%EB%B2%95.md">HTTP성능 향상을 위해 고안된 방법 - 병렬 커넥션, keep-alive 커넥션, keep-alive 파이프라인</a></li>
 	<li>HTTP 다이제스트 인증</li>
 	<li>HTTPS</li>
 	<li>세션 - 쿠키인증</li>
