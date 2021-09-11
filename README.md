@@ -21,6 +21,7 @@
 	<li>세션 - 쿠키인증</li>
 	<li>JWT(Json Web Token)</li>
 	<li>What happens search google? </li>
+	<li>HTTP/2.0</li>
 </ul>
 <br>
 <ul> <b> 서버 </b>
