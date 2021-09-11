@@ -1,12 +1,12 @@
 
-<div align = "center"><h2>  </h2> 
-Reference
+<div align = "center"><h2>  </h2> </div>
+<ul><b>Reference</b>
 <li> Youtube 우아한테크코스 10분 테코톡</li>
 <li> HTTP완벽가이드 </li>
 <li> 객체지향의 사실과 오해</li>
 <li> HeadFirstDesignPatterns </li>
 <li> Effective Java</li>
-</div>
+</ul>
 <h2></h2>
 
 <div>
