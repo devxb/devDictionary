@@ -1,5 +1,7 @@
 
-<div align = "center"><h2>  </h2> </div>
+<div align = "center"><h2> 개발사전 </h2> 
+<br> 공부한 기초적인 내용을 정리합니다
+</div>
 <ul><b>Reference</b>
 <li> Youtube 우아한테크코스 10분 테코톡</li>
 <li> HTTP완벽가이드 </li>
