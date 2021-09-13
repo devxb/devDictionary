@@ -1,6 +1,6 @@
 ## HTTP 다이제스트 인증
 
-[HTTP 기본인증](https://https://github.com/devxb/devDictionary/blob/main/HTTP&HTTPS/HTTP%20%EA%B8%B0%EB%B3%B8%EC%9D%B8%EC%A6%9D.md) 의 문제점을 보안환 인증 프로토콜이 다이제스트 인증이다.        
+[HTTP 기본인증](https://https://github.com/devxb/devDictionary/blob/main/HTTP&HTTPS/HTTP%20%EA%B8%B0%EB%B3%B8%EC%9D%B8%EC%A6%9D.md) 의 문제점을 보완환 인증 프로토콜이 다이제스트 인증이다.        
 그러나, 인증의 범위가 Authenticate, Authorization영역에 국한된다는점, 재전송 공격에 노출될수있다는점, 보안의 성능이 구현중심적인점 등... 여러 문제점이 있어서 현재(2021)는 거의 사용되지않고있으며, 완벽한 보안 HTTP 트랜잭션을 위해선, HTTPS를 사용해야한다.       
 그럼에도 다이제스트 인증의 방식은 보안 트랜잭션을 구현하려는 이들에게는 여전히 유용하기 때문에, 다이제스트 인증의 과정에 대해서 간략히라도 알고 넘어가야 할것같다는 생각에 정리하게되었다.
 
