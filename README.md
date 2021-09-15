@@ -43,6 +43,8 @@
 <li> 중첩 try-with-resources </li>
 <li> Java의 String + 연산</li>
 <li> final </li>
+<li> Optional </li>
+<li> lambda </li>
 </ul>
 <br>
 <ul> <b> 객체지향</b>
