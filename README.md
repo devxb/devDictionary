@@ -20,7 +20,7 @@
 	<li> <a href = "HTTP&HTTPS/HTTP성능향상을 위해 고안된 방법.md">HTTP성능 향상을 위해 고안된 방법 - 병렬 커넥션, keep-alive 커넥션, keep-alive 파이프라인</a></li>
 	<li><a href="HTTP&HTTPS/HTTP 기본인증.md">HTTP 기본인증</a></li>
 	<li><a href="HTTP&HTTPS/HTTP 다이제스트 인증.md">HTTP 다이제스트 인증</a></li>
-	<li>세션, 쿠키</li>
+	<li><a href="HTTP&HTTPS/세션과 쿠키.md">세션과 쿠키</a></li>
 	<li>캐시</li>
 	<li>HTTPS</li>
 	<li>세션 - 쿠키인증</li>
