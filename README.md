@@ -1,4 +1,5 @@
 
+
 <div align = "center"><h2> 개발사전 </h2> 
 <br> 공부한 기초적인 내용을 정리합니다
 </div>
@@ -45,6 +46,10 @@
 <li> final </li>
 <li> Optional </li>
 <li> lambda </li>
+</ul>
+<br>
+<ul> <b> JPA </b>
+<li> <a href = "https://dlwnsdud205.tistory.com/266">JPA란? - 패러다임의 불일치</a></li>
 </ul>
 <br>
 <ul> <b> 객체지향</b>
