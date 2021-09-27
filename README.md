@@ -4,7 +4,7 @@
 <br> 공부한 기초적인 내용을 정리합니다
 </div>
 <ul><b>Reference</b>
-<li> Youtube 우아한테크코스 10분 테코톡</li>
+<li> 우아한테크코스 10분 테코톡</li>
 <li> Naver D2</li>
 <li> HTTP완벽가이드 </li>
 <li> 객체지향의 사실과 오해</li>
@@ -23,7 +23,7 @@
 	<li><a href="HTTP&HTTPS/HTTP 다이제스트 인증.md">HTTP 다이제스트 인증</a></li>
 	<li><a href="HTTP&HTTPS/세션과 쿠키.md">세션과 쿠키</a></li>
 	<li><a href="HTTP&HTTPS/웹 캐시.md">웹 캐시</a></li>
-	<li>HTTPS</li>
+	<li><a href="HTTP&HTTPS/HTTPS.md">HTTPS</a></li>
 	<li>세션 - 쿠키인증</li>
 	<li>JWT(Json Web Token)</li>
 	<li>What happens search google? </li>
