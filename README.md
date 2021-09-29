@@ -24,7 +24,7 @@
 	<li><a href="HTTP&HTTPS/세션과 쿠키.md">세션과 쿠키</a></li>
 	<li><a href="HTTP&HTTPS/웹 캐시.md">웹 캐시</a></li>
 	<li><a href="HTTP&HTTPS/HTTPS.md">HTTPS</a></li>
-	<li><a href="HTTPS&HTTPS/인증 - 세션,쿠키,JWT.md">인증 - 세션,쿠키,JWT</a></li>
+	<li><a href="HTTP&HTTPS/인증 - 세션,쿠키,JWT.md">인증 - 세션,쿠키,JWT</a></li>
 	<li>What happens search google? </li>
 	<li>HTTP/2.0</li>
 </ul>
