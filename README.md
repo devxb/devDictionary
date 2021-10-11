@@ -10,6 +10,7 @@
 <li> 객체지향의 사실과 오해</li>
 <li> HeadFirstDesignPatterns </li>
 <li> Effective Java</li>
+<li> 자바 ORM 표준 JPA 프로그래밍</li>
 </ul>
 <h2></h2>
 
