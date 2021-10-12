@@ -49,9 +49,10 @@
 </ul>
 <br>
 <ul> <b> JPA </b>
-<li> <a href = "https://dlwnsdud205.tistory.com/266">JPA란? - 패러다임의 불일치</a></li>
+<li> <a href="https://dlwnsdud205.tistory.com/266">JPA란? - 패러다임의 불일치</a></li>
 <li> <a href="https://dlwnsdud205.tistory.com/272">JPA 영속성 컨텍스트</a></li>
-<li> <a href = "https://dlwnsdud205.tistory.com/268">JPA 성능최적화 N+1</a></li>
+<li> <a href="https://dlwnsdud205.tistory.com/273">JPA 필드와 컬럼 매핑</a></li>
+<li> <a href="https://dlwnsdud205.tistory.com/268">JPA 성능최적화 N+1</a></li>
 </ul>
 <br>
 <ul> <b> 객체지향</b>
