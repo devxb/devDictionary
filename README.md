@@ -43,7 +43,7 @@
 <li> <a href="Java/try-with-resources.md">try-with-resources</a></li>
 <li> 중첩 try-with-resources </li>
 <li> Java의 String + 연산</li>
-<li> final </li>
+<li> 변경가능한 final을 주의하자 </li>
 <li> Optional </li>
 <li> lambda </li>
 </ul>
