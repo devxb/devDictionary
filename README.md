@@ -11,7 +11,6 @@
 <li> HeadFirstDesignPatterns </li>
 <li> Effective Java</li>
 <li> 자바 ORM 표준 JPA 프로그래밍</li>
-<li> 자바 API 디자인 </li>
 </ul>
 <h2></h2>
 
@@ -45,7 +44,6 @@
 <li> 중첩 try-with-resources </li>
 <li> Java의 String + 연산</li>
 <li> 변경가능한 final </li>
-<li> 노출을 최소화 하는법 </li>
 <li> Optional </li>
 <li> lambda </li>
 <li> 초기화 블록 </li>
