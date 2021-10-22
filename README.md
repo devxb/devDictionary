@@ -36,13 +36,13 @@
 </ul>
 <br>
 <ul> <b>Java</b>
-<ul> Java 기초
+<ul> <b>Java 기초</b>
 	<li> Java의 등장배경과 특징</li>
 	<li> JVM</li>
 	<li> Process, Thread / Stack, Heap</li>
 	<li> Garbage Collection</li>
 </ul>
-<ul> Java best pattern
+<ul> <b>Java best pattern</b>
 	<li> <a href="Java/try-with-resources.md">try-with-resources</a></li>
 	<li> 중첩 try-with-resources </li>
 	<li> Java의 String + 연산</li>
@@ -50,11 +50,11 @@
 	<li> Optional </li>
 	<li> lambda </li>
 </ul>
-<ul> 자바 유용한 팁
+<ul> <b>자바 유용한 팁</b>
 	<li> 초기화 블록 </li>
 	<li> 가변적 매개변수 </li>
 </ul>
-<ul> Conccurency로써 Java - 비동기, 멀티스레드, 논 블로킹
+<ul> <b>Conccurency로써 Java - 비동기, 멀티스레드, 논 블로킹</b>
 	<li> 멀티스레드 </li>
 	<li> 비동기 와 논 블로킹</li>
 	<li> Synchronized </li>
