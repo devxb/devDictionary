@@ -36,18 +36,31 @@
 </ul>
 <br>
 <ul> <b>Java</b>
-<li> Java의 등장배경과 특징</li>
-<li> JVM</li>
-<li> Process, Thread / Stack, Heap</li>
-<li> Garbage Collection</li>
-<li> <a href="Java/try-with-resources.md">try-with-resources</a></li>
-<li> 중첩 try-with-resources </li>
-<li> Java의 String + 연산</li>
-<li> 변경가능한 final </li>
-<li> Optional </li>
-<li> lambda </li>
-<li> 초기화 블록 </li>
-<li> 가변적 매개변수 </li>
+<ul> Java 기초
+	<li> Java의 등장배경과 특징</li>
+	<li> JVM</li>
+	<li> Process, Thread / Stack, Heap</li>
+	<li> Garbage Collection</li>
+</ul>
+<ul> Java best pattern
+	<li> <a href="Java/try-with-resources.md">try-with-resources</a></li>
+	<li> 중첩 try-with-resources </li>
+	<li> Java의 String + 연산</li>
+	<li> 변경가능한 final </li>
+	<li> Optional </li>
+	<li> lambda </li>
+</ul>
+<ul> 자바 유용한 팁
+	<li> 초기화 블록 </li>
+	<li> 가변적 매개변수 </li>
+</ul>
+<ul> Conccurency로써 Java - 비동기, 멀티스레드, 논 블로킹
+	<li> 멀티스레드 </li>
+	<li> 비동기 와 논 블로킹</li>
+	<li> Synchronized </li>
+	<li> Executor </li>
+	<li> Volatile </li>
+	<li> Future </li>
 </ul>
 <br>
 <ul> <b> JPA </b>
