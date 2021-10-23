@@ -38,13 +38,13 @@
 </ul>
 <br>
 <ul> <b>Java</b>
-<ul> <b>Java 기초</b>
+<ul> <br><b>Java 기초</b>
 	<li> Java의 등장배경과 특징</li>
 	<li> JVM</li>
 	<li> <a href = "https://dlwnsdud205.tistory.com/279">자바 Stack, Heap </a></li>
 	<li> Garbage Collection</li>
 </ul>
-<ul> <b>Java best pattern</b>
+<ul> <br><b>Java best pattern</b>
 	<li> <a href="Java/try-with-resources.md">try-with-resources</a></li>
 	<li> 중첩 try-with-resources </li>
 	<li> Java의 String + 연산</li>
@@ -52,11 +52,11 @@
 	<li> Optional </li>
 	<li> lambda </li>
 </ul>
-<ul> <b>자바 유용한 팁</b>
+<ul> <br><b>자바 유용한 팁</b>
 	<li> 초기화 블록 </li>
 	<li> 가변적 매개변수 </li>
 </ul>
-<ul> <b>Conccurency로써 Java - 비동기, 멀티스레드, 논 블로킹</b>
+<ul> <br><b>Conccurency로써 Java - 비동기, 멀티스레드, 논 블로킹</b>
 	<li> 멀티스레드 </li>
 	<li> 비동기 와 논 블로킹</li>
 	<li> Synchronized </li>
@@ -72,6 +72,7 @@
 <li> <a href="https://dlwnsdud205.tistory.com/268">JPA 성능최적화 N+1</a></li>
 <li> <a href="https://dlwnsdud205.tistory.com/274">JPA 연관관계 매핑</a></li>
 <li> <a href="https://dlwnsdud205.tistory.com/276">JPA 상속관계, 복합키 식별관계</a></li>
+<li> <a href="https://dlwnsdud205.tistory.com/280">JPA 지연로딩과 영속성 전이</a></li>
 <li>트랜잭션</li>
 </ul>
 <br>
