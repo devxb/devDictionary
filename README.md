@@ -64,6 +64,7 @@
 	<li> Volatile </li>
 	<li> Future </li>
 </ul>
+</ul>
 <br>
 <ul> <b> JPA </b>
 <li> <a href="https://dlwnsdud205.tistory.com/266">JPA란? - 패러다임의 불일치</a></li>
