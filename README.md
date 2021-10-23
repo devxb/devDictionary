@@ -41,7 +41,7 @@
 <ul> <b>Java 기초</b>
 	<li> Java의 등장배경과 특징</li>
 	<li> JVM</li>
-	<li> Process, Thread / Stack, Heap</li>
+	<li> <a href = "https://dlwnsdud205.tistory.com/279">자바 Stack, Heap </a></li>
 	<li> Garbage Collection</li>
 </ul>
 <ul> <b>Java best pattern</b>
