@@ -57,9 +57,8 @@
 	<li> 가변적 매개변수 </li>
 </ul>
 <ul> <br><b>Conccurency로써 Java - 비동기, 멀티스레드, 논 블로킹</b>
-	<li> 멀티스레드 </li>
+	<li> <a href = "https://dlwnsdud205.tistory.com/281">스레드와 Synchronized</a> </li>
 	<li> 비동기 와 논 블로킹</li>
-	<li> Synchronized </li>
 	<li> Executor </li>
 	<li> Volatile </li>
 	<li> Future </li>
