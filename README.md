@@ -28,6 +28,7 @@
 	<li><a href="HTTP&HTTPS/인증 - 세션,쿠키,JWT.md">인증 - 세션,쿠키,JWT</a></li>
 	<li><a href="https://github.com/devxb/devDictionary/blob/main/HTTP%26HTTPS/What%20happens%20when%20you%20search%20google%3F.md">What happens when you search google?</a>
 </li>
+	<li><a href="https://dlwnsdud205.tistory.com/288">REST</a></li>
 	<li>HTTP/2.0</li>
 	<li> CORS (Cross-Origin Resource Sharing)</li>
 </ul>
